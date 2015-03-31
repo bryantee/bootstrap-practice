@@ -1,0 +1,29 @@
+.jumbotron {
+  background-color: #a9f2a2;
+
+}
+
+.jumbotron #words-button {
+  margin-left: 50px;
+}
+
+.jumbotron .progress {
+  margin-top: 100px;
+}
+
+.jumbotron .btn-default {
+  color: white;
+  background :#f2a2a9;
+  margin-left: 150px;
+}
+
+.image-row {
+  padding-top: 5px;
+  margin-top: 10px;
+}
+
+.progress {
+  margin:15px;
+  max-width: 400px;
+  align:center;
+}
